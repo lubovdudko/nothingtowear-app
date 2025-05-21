@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Cotton top",
+    "brand": "H&M",
+    "type": "top",
+    "color": "red",
+    "season": "summer, spring",
+    "imgURL": "https://img01.ztat.net/article/spp-media-p1/594e08533a1d4c8daff3d9afc5280ff5/8e311ba96eac4371896363f41a76c1a9.jpg?imwidth=1800&filter=packshot"
+  },
+  {
+    "id": 2,
+    "name": "Mom jeans",
+    "brand": "New Look",
+    "type": "bottom",
+    "color": "blue",
+    "season": "all seasons",
+    "imgURL": "https://img01.ztat.net/article/spp-media-p1/302447cec4584c709ab7f90f28430c81/3dc08dd606bc428cba39402b5c29467b.jpg?imwidth=1800&filter=packshot"
+  },
+  {
+    "id": 3,
+    "name": "Sneakers",
+    "brand": "Vans",
+    "type": "shoes",
+    "color": "black",
+    "season": "summer, spring, fall",
+    "imgURL": "https://img01.ztat.net/article/spp-media-p1/cecb293f38973416a0cc507109ac0c83/92eccdf35faf45d6aa59f2791c0ab57f.jpg?imwidth=1800"
+  },
+  {
+    "id": 4,
+    "name": "Shopper bag",
+    "brand": "Zign",
+    "type": "bag",
+    "color": "beige",
+    "season": "all seasons",
+    "imgURL": "https://img01.ztat.net/article/spp-media-p1/c0958499913349a68075a6b78c24a713/c5941e3d9e3c4257bfdd8c9ce56682ae.jpg?imwidth=1800&filter=packshot"
+  },
+  {
+    "id": 5,
+    "name": "Earrings",
+    "brand": "Rosefield",
+    "type": "accessories",
+    "color": "silver",
+    "season": "all seasons",
+    "imgURL": "https://img01.ztat.net/article/spp-media-p1/2e253c7b47e54026a0ed810c225f7681/e87d54e6b4f04e21a71d868668d4c938.jpg?imwidth=1800&filter=packshot"
+  },
+  {
+    "id": 6,
+    "name": "Sneakers",
+    "brand": "New Balance",
+    "type": "shoes",
+    "color": "silver",
+    "season": "all seasons",
+    "imgURL": "https://img01.ztat.net/article/spp-media-p1/8d19769e527b4043abf1bbc3e3f8984b/b9217d311c044ee18edbf448b0666b56.jpg?imwidth=1800"
+  },
+  {
+    "id": 7,
+    "name": "Silk skirt",
+    "brand": "Mango",
+    "type": "bottom",
+    "color": "white",
+    "season": "spring, summer, fall",
+    "imgURL": "https://img01.ztat.net/article/spp-media-p1/6bf5758dd42a4bf69d8c9d0fa59bb3c7/1bf0125ea3054fa1afa324b3d8d07120.jpg?imwidth=1800&filter=packshot"
+  },
+  {
+    "id": 8,
+    "name": "Sandals",
+    "brand": "Birkenstock",
+    "type": "shoes",
+    "color": "gold",
+    "season": "spring, summer",
+    "imgURL": "https://img01.ztat.net/article/spp-media-p1/f79c417d45a5383897dbdb2e83edbb1f/836c2c25b663404a930dfc61cc4c6590.jpg?imwidth=1800&filter=packshot"
+  },
+  {
+    "id": 9,
+    "name": "Sunglasses",
+    "brand": "Marc O'Polo",
+    "type": "accessories",
+    "color": "brown",
+    "season": "all seasons",
+    "imgURL": "https://img01.ztat.net/article/spp-media-p1/a44fa8a41dcc42b89d7105863f2e83bc/a5683714c75d4aa28ab8465ae1ac66a7.jpg?imwidth=1800"
+  },
+  {
+    "id": 10,
+    "name": "Shirt",
+    "brand": "Mango",
+    "type": "top",
+    "color": "blue",
+    "season": "all seasons",
+    "imgURL": "https://img01.ztat.net/article/spp-media-p1/03f0d0b02ee248db887e1a9152896ccd/68a26be9e251467cb0cdb5a70c8ab08e.jpg?imwidth=1800&filter=packshot"
+  },
+  {
+    "id": 11,
+    "name": "Plain T-shirt",
+    "brand": "Massimo Dutti",
+    "type": "top",
+    "color": "white",
+    "season": "all seasons",
+    "imgURL": "https://img01.ztat.net/article/spp-media-p1/2874e65b323f46b3887dff73537638ef/57fdb2bcfb8349118e2a8a79ff0ecd74.jpg?imwidth=1800&filter=packshot"
+  },
+  {
+    "id": 12,
+    "name": "Trench",
+    "brand": "Only",
+    "type": "outerwear",
+    "color": "brown",
+    "season": "spring, fall",
+    "imgURL": "https://img01.ztat.net/article/spp-media-p1/4b4d3933d39d463ca07320ecf2f72b4b/025d1003efea43c48eb0fba90f547ff0.jpg?imwidth=1800&filter=packshot"
+  }
+]
