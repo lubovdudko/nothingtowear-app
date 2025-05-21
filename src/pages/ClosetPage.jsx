@@ -22,7 +22,9 @@ function ClosetPage(props) {
     const loadData = async () => {
       setIsLoading(true);
       try {
-        const response = await fetch("/data/clothes.json");
+        const response = await fetch(
+          `${import.meta.env.BASE_URL}data/clothes.json`
+        );
         const json = await response.json();
         setClothes(json);
       } catch (err) {
